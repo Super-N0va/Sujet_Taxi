@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<tarifs>
+
+    <departement numero="21">
+        <pec>2</pec>
+        <tarifKmSem>1.72</tarifKmSem>
+        <tarifHoraireSem>21.93</tarifHoraireSem>
+        <tarifKmDim>1.29</tarifKmDim>
+        <tarifHoraireDim>21.93</tarifHoraireDim>
+    </departement>
+
+    <departement numero="25">
+        <pec>2.1</pec>
+        <tarifKmSem>1.66</tarifKmSem>
+        <tarifHoraireSem>22.5</tarifHoraireSem>
+        <tarifKmDim>1.2</tarifKmDim>
+        <tarifHoraireDim>22.5</tarifHoraireDim>
+    </departement>
+
+    <departement numero="39">
+        <pec>2.1</pec>
+        <tarifKmSem>1.66</tarifKmSem>
+        <tarifHoraireSem>22.5</tarifHoraireSem>
+        <tarifKmDim>1.23</tarifKmDim>
+        <tarifHoraireDim>25</tarifHoraireDim>
+    </departement>
+
+    <departement numero="44">
+        <pec>2.2</pec>
+        <tarifKmSem>1.58</tarifKmSem>
+        <tarifHoraireSem>24.19</tarifHoraireSem>
+        <tarifKmDim>1.19</tarifKmDim>
+        <tarifHoraireDim>24.19</tarifHoraireDim>
+    </departement>
+
+    <departement numero="72">
+        <pec>2.15</pec>
+        <tarifKmSem>1.58</tarifKmSem>
+        <tarifHoraireSem>24.19</tarifHoraireSem>
+        <tarifKmDim>1.19</tarifKmDim>
+        <tarifHoraireDim>24.19</tarifHoraireDim>
+    </departement>
+
+    <departement numero="73">
+        <pec>2.4</pec>
+        <tarifKmSem>1.68</tarifKmSem>
+        <tarifHoraireSem>25.4</tarifHoraireSem>
+        <tarifKmDim>1.26</tarifKmDim>
+        <tarifHoraireDim>25.4</tarifHoraireDim>
+    </departement>
+
+    <departement numero="74">
+        <pec>3.15</pec>
+        <tarifKmSem>1.84</tarifKmSem>
+        <tarifHoraireSem>17.3</tarifHoraireSem>
+        <tarifKmDim>1.38</tarifKmDim>
+        <tarifHoraireDim>17.3</tarifHoraireDim>
+    </departement>
+
+    <departement numero="75">
+        <pec>2.5</pec>
+        <tarifKmSem>1.24</tarifKmSem>
+        <tarifHoraireSem>0</tarifHoraireSem>
+        <tarifKmDim>1.5</tarifKmDim>
+        <tarifHoraireDim>0</tarifHoraireDim>
+    </departement>
+
+    <departement numero="85">
+        <pec>2.3</pec>
+        <tarifKmSem>1.6</tarifKmSem>
+        <tarifHoraireSem>22.2</tarifHoraireSem>
+        <tarifKmDim>1.2</tarifKmDim>
+        <tarifHoraireDim>22.2</tarifHoraireDim>
+    </departement>
+
+    <departement numero="90">
+        <pec>2.2</pec>
+        <tarifKmSem>1.66</tarifKmSem>
+        <tarifHoraireSem>21</tarifHoraireSem>
+        <tarifKmDim>1.15</tarifKmDim>
+        <tarifHoraireDim>21</tarifHoraireDim>
+    </departement>
+
+</tarifs>
+
+
+
+
+
+
+
+
